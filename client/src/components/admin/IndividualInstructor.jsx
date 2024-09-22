@@ -109,7 +109,7 @@ const WelcomeContainer = styled.div`
 
 const TopBar = styled.div`
   width: 100%;
-  background: #00796b; /* Teal */
+  background: #00796b; /* Satin Pearl */
   padding: 25px;
   display: flex;
   justify-content: space-between;

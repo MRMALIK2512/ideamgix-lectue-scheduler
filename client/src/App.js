@@ -8,6 +8,8 @@ import ErrorPage from "./components/ErrorPage";
 import Instructor from "./components/user/Instructor";
 import IndividualCourse from "./components/IndividualCourse";
 import IndividualInstructor from "./components/admin/IndividualInstructor";
+
+
 export default function App() {
   return (
     <BrowserRouter>

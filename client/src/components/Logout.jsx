@@ -27,7 +27,7 @@ export default function Logout() {
 }
 
 const StyledLogoutButton = styled.button`
-  background-color: #FF6F61; /* Dodger Blue */
+  background-color: #FF6F61; 
   color: white;
   padding: 1rem 2.5rem;
   border: none;
