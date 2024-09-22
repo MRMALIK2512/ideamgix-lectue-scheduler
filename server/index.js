@@ -14,7 +14,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://lecture-schedule-module.netlify.app/",
+      "https://ideamgix-lectue-scheduler-xofv.vercel.app/",
     ],
     methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
     credentials: true,

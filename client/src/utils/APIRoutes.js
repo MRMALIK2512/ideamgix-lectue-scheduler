@@ -1,4 +1,4 @@
-export const host = "https://ideamgix-lectue-scheduler-lh1q.vercel.app/";
+export const host = "https://ideamgix-lectue-scheduler-lh1q.vercel.app";
 
 
 // authentication
